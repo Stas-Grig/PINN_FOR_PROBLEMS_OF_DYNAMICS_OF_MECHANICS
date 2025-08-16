@@ -48,8 +48,8 @@
 
 ## Использованные инструменты и языки:
 * Python
-* Numpy
-* Scipy
+* NumPy
+* SciPy
 * Matplotlib
 * Pytorch
 
